@@ -15,7 +15,7 @@
    '-', '-', '-', '-', '-', '-', '-', '-', '-', '-'
 };
 
-
+/*Dividir todo o código em bloco de funções*/
 void jogador1(void);
 
 void main(void)
